@@ -35,13 +35,17 @@ A collection of beautiful themes to customize and enhance the Cosmic Desktop Env
 
 ## Light Themes
 
+| **Fedora Light** | **Maroon Mirage** |
+|------------------|-----------------|
+| ![fedora-light.png](screenshots/fedora-light.png) | ![maroon-mirage.png](screenshots/maroon-mirage.png) |
+
+| **Mint Light** | **Royal Orchid** |
+|------------------|-----------------|
+| ![mint-light.png](screenshots/mint-light.png) | ![royal-orchid.png](screenshots/royal-orchid.png) |
+
 | **Ubuntu Classic Light** | **Ubuntu Light** |
 |------------------|-----------------|
 | ![ubuntu-classic-light.png](screenshots/ubuntu-classic-light.png) | ![ubuntu-light.png](screenshots/ubuntu-light.png) |
-
-| **Mint Light** |
-|------------------|
-| ![mint-light.png](screenshots/mint-light.png) |
 
 ---
 
