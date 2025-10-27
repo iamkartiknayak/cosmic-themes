@@ -8,7 +8,7 @@ A collection of beautiful themes to customize and enhance the Cosmic Desktop Env
 |------------------|-----------------|
 | ![comet-light.png](screenshots/comet-light.png) | ![cosmic-dark.png](screenshots/cosmic-dark.png) |
 
-| **Cosmic Light Dark** | **Creme Light** |
+| **Cosmic Light** | **Creme Light** |
 |------------------|-----------------|
 | ![cosmic-light.png](screenshots/cosmic-light.png) | ![creme-light.png](screenshots/creme-light.png) |
 
