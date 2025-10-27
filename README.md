@@ -2,52 +2,77 @@
 
 A collection of beautiful themes to customize and enhance the Cosmic Desktop Environment.
 
+## Official Themes
+
+| **Comet Light** | **Cosmic Dark** |
+|------------------|-----------------|
+| ![comet-light.png](screenshots/comet-light.png) | ![cosmic-dark.png](screenshots/cosmic-dark.png) |
+
+| **Cosmic Light Dark** | **Creme Light** |
+|------------------|-----------------|
+| ![cosmic-light.png](screenshots/cosmic-light.png) | ![creme-light.png](screenshots/creme-light.png) |
+
+| **Mocha Dark** | **Nebula Dark** |
+|------------------|-----------------|
+| ![mocha-dark.png](screenshots/mocha-dark.png) | ![nebula-dark.png](screenshots/nebula-dark.png) |
+
+
 ## Dark Themes
 
-| **Accent Oblivion** | **Busy Bee** |
+| **Accent Dark** | **Busy Bee** |
 |------------------|-----------------|
-| ![accent-oblivion.png](screenshots/accent-oblivion.png) | ![busy-bee.png](screenshots/busy-bee.png) |
+| ![accent-dark.png](screenshots/accent-dark.png) | ![busy-bee.png](screenshots/busy-bee.png) |
 
-| **Cosmic Abyss** | **Flaming Ruby** |
+| **Caramel Dark** | **Cosmic Abyss** |
 |------------------|-----------------|
-| ![cosmic-abyss.png](screenshots/cosmic-abyss.png) | ![flaming-ruby.png](screenshots/flaming-ruby.png) |
+| ![caramel-dark.png](screenshots/caramel-dark.png) | ![cosmic-abyss.png](screenshots/cosmic-abyss.png) |
+
+| **Cosmic Crimson** | **Flaming Ruby** |
+|------------------|-----------------|
+| ![cosmic-crimson.png](screenshots/cosmic-crimson.png) | ![flaming-ruby.png](screenshots/flaming-ruby.png) |
 
 | **Hot Iron** | **Lunar Eclipse** |
 |------------------|-----------------|
 | ![hot-iron.png](screenshots/hot-iron.png) | ![lunar-eclipse.png](screenshots/lunar-eclipse.png) |
 
-| **Mint Dark** | **Nature** |
+| **Mint Dark** | **Monokai** |
 |------------------|-----------------|
-| ![mint-dark.png](screenshots/mint-dark.png) | ![nature.png](screenshots/nature.png) |
+| ![mint-dark.png](screenshots/mint-dark.png) | ![monokai.png](screenshots/monokai.png) |
 
 | **Obsidian** | **Ocean Mist** |
 |------------------|-----------------|
 | ![obsidian.png](screenshots/obsidian.png) | ![ocean-mist.png](screenshots/ocean-mist.png) |
 
-| **Oled Default** | **Pop Dark** |
+| **Omnitrix** | **Shadcn Dark** |
 |------------------|-----------------|
-| ![oled-default.png](screenshots/oled-default.png) | ![pop-dark.png](screenshots/pop-dark.png) |
+| ![omnitrix.png](screenshots/omnitrix.png) | ![shadcn.png](screenshots/shadcn-dark.png) |
 
-| **Void Dream** |
-|------------------|
-| ![void-dream.png](screenshots/void-dream.png) | 
+| **Ubuntu Classic Dark** | **Void Dream** |
+|------------------|-----------------|
+| ![ubuntu-classic-dark.png](screenshots/ubuntu-classic-dark.png) | ![void-dream.png](screenshots/void-dream.png) |
 
 
 ## Light Themes
 
-| **Fedora Light** | **Maroon Mirage** |
+| **Accent Light** | **Caramel Light** |
 |------------------|-----------------|
-| ![fedora-light.png](screenshots/fedora-light.png) | ![maroon-mirage.png](screenshots/maroon-mirage.png) |
+| ![accent-light.png](screenshots/accent-light.png) | ![caramel-light.png](screenshots/caramel-light.png) |
+
+| **Lemon Grass** | **Maroon Mirage** |
+|------------------|-----------------|
+| ![lemon-grass.png](screenshots/lemon-grass.png) | ![maroon-mirage.png](screenshots/maroon-mirage.png) |
 
 | **Mint Light** | **Royal Orchid** |
 |------------------|-----------------|
 | ![mint-light.png](screenshots/mint-light.png) | ![royal-orchid.png](screenshots/royal-orchid.png) |
 
-| **Ubuntu Classic Light** | **Ubuntu Light** |
+| **Shadcn Light** | **Ubuntu Classic** |
 |------------------|-----------------|
-| ![ubuntu-classic-light.png](screenshots/ubuntu-classic-light.png) | ![ubuntu-light.png](screenshots/ubuntu-light.png) |
+| ![shadcn-light.png](screenshots/shadcn-light.png) | ![ubuntu-classic.png](screenshots/ubuntu-classic.png) |
 
----
+| **Ubuntu Light** |
+|------------------|
+| ![ubuntu-light.png](screenshots/ubuntu-light.png) | 
 
 ### How to Apply a Theme
 1. Open Cosmic Settings.
