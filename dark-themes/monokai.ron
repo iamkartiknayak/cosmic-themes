@@ -221,12 +221,7 @@
         blue: 0.09019608,
         alpha: 1.0,
     )),
-    primary_container_bg: Some((
-        red: 0.08627451,
-        green: 0.078431375,
-        blue: 0.10980392,
-        alpha: 1.0,
-    )),
+    primary_container_bg: None,
     secondary_container_bg: None,
     text_tint: None,
     accent: Some((

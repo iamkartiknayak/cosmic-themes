@@ -220,9 +220,9 @@
         blue: 0.3882353,
     )),
     bg_color: Some((
-        red: 0.064823985,
-        green: 0.0058603734,
-        blue: 0.016916052,
+        red: 0.11736053,
+        green: 0.010514393,
+        blue: 0.030548044,
         alpha: 1.0,
     )),
     primary_container_bg: None,
