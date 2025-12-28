@@ -47,9 +47,13 @@ A collection of beautiful themes to customize and enhance the Cosmic Desktop Env
 |------------------|-----------------|
 | ![omnitrix.png](screenshots/omnitrix.png) | ![shadcn.png](screenshots/shadcn-dark.png) |
 
-| **Ubuntu Classic Dark** | **Void Dream** |
+| **Steam Client** | **Ubuntu Classic Dark** |
 |------------------|-----------------|
-| ![ubuntu-classic-dark.png](screenshots/ubuntu-classic-dark.png) | ![void-dream.png](screenshots/void-dream.png) |
+| ![steam-client.png](screenshots/steam-client.png) | ![ubuntu-classic-dark.png](screenshots/ubuntu-classic-dark.png) |
+
+| **Void Dream** |
+|-----------------|
+| ![void-dream.png](screenshots/void-dream.png) |
 
 
 ## Light Themes
